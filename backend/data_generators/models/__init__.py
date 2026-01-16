@@ -2,4 +2,4 @@
 
 from .transaction import Transaction, User, Merchant
 
-__all__ = ['Transaction', 'User', merchant']
+__all__ = ['Transaction', 'User', 'Merchant']
